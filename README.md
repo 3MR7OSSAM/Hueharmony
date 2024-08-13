@@ -7,7 +7,7 @@ Hueharmony is a Flutter web application designed to colorize black and white ima
 ## Technologies Used
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="100" style="padding: 20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="100"/>
 </div>
 
